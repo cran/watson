@@ -1,0 +1,17 @@
+9645a351ef36f0601c5ae1836201e68c *DESCRIPTION
+74d2b6dd75affe887e150e2bc13a903c *NAMESPACE
+2fd73c80397074aca69b465f570b00eb *R/RcppExports.R
+c998cf96f4a9b8290e8e58c51981a898 *R/sysdata.rda
+9c1c24dfef5e2e7a299a62d1d3462600 *R/watson.R
+7fdf6f7e6677b683d075b22ebe09a3c3 *man/diam_clus.Rd
+54557c8982d046d5f341aeeb8a1ea4f5 *man/rmwat.Rd
+c5988a9e6fbaccd7db06a9565246ecfe *man/watson.Rd
+61059660eb073d93e00e8ee054237071 *src/Makevars
+61059660eb073d93e00e8ee054237071 *src/Makevars.win
+e3d2dd09834b35c32735d01d1491acb0 *src/RcppExports.cpp
+60080d2d73791ec73facaa81b01a6dc7 *src/hyper.h
+838421f2554be1aa603d8ab2d2408d01 *src/hyper3.cpp
+4d0f538fcc798f31057ffa4fd0985523 *src/rdist.c
+5dc1fb087d2be4c173ba6c4772e49c04 *src/rdist.h
+3711bcdb0dc51eaa15ef6ffcc8d3de0a *src/rwat.cpp
+4adb5076f860fab1f0cec9e0314087e8 *src/wat6.cpp

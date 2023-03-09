@@ -1,7 +1,7 @@
 Package: watson
 Type: Package
 Title: Fitting and Simulating Mixtures of Watson Distributions
-Version: 0.1
+Version: 0.2
 Authors@R: c(
     person("Lukas", "Sablica", email = "lsablica@wu.ac.at", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0001-9166-4563")), 
@@ -32,7 +32,7 @@ LinkingTo: Rcpp, RcppArmadillo, Tinflex
 RoxygenNote: 7.1.2
 Depends: R (>= 3.1.0)
 NeedsCompilation: yes
-Packaged: 2022-10-12 13:13:31 UTC; sablica
+Packaged: 2023-03-09 13:29:56 UTC; sablica
 Author: Lukas Sablica [aut, cre] (<https://orcid.org/0000-0001-9166-4563>),
   Kurt Hornik [aut] (<https://orcid.org/0000-0003-4198-9911>),
   Josef Leydold [aut],
@@ -41,4 +41,4 @@ Author: Lukas Sablica [aut, cre] (<https://orcid.org/0000-0001-9166-4563>),
   Brian Gough [ctb, cph] (Author and copyright holder of included GNU GSL
     code)
 Repository: CRAN
-Date/Publication: 2022-10-12 13:40:34 UTC
+Date/Publication: 2023-03-09 14:30:02 UTC

@@ -1,11 +1,11 @@
-ef48ba8c694251a4cd3e337822ecb4c8 *DESCRIPTION
+d578394de62b4e6da12fcddce782e3f6 *DESCRIPTION
 a032edcefee87f855c908ff657753ed5 *NAMESPACE
-cc9862848c2d7bc2885d86841808585f *NEWS.md
-aac3d3031328155c001fc1119cab59b6 *R/RcppExports.R
+571e87e8487d6ba39f0b956da4689940 *NEWS.md
+e3c2f9e93c72f5caaa1530b5c2cce9a9 *R/RcppExports.R
 c43bf7496b1b6622f4fc8f070448a2ac *R/watson.R
 7fdf6f7e6677b683d075b22ebe09a3c3 *man/diam_clus.Rd
 917015cc4439a4c7cc734b067b051ad6 *man/id.Rd
-184e8c9c8a53f87afb2f9b807f326fb3 *man/rmwat.Rd
+12c96a1c09b1e37e1b3a6b03a3bc161e *man/rmwat.Rd
 c5988a9e6fbaccd7db06a9565246ecfe *man/watson.Rd
 537c71939fbf30a0de7241473479fdbf *src/Makevars
 537c71939fbf30a0de7241473479fdbf *src/Makevars.win
@@ -14,7 +14,7 @@ c5988a9e6fbaccd7db06a9565246ecfe *man/watson.Rd
 838421f2554be1aa603d8ab2d2408d01 *src/hyper3.cpp
 c3bdddabc70bf736d181197d0f2b2e4c *src/rdist.c
 5dc1fb087d2be4c173ba6c4772e49c04 *src/rdist.h
-67e38598e106c11bfe7e4288ead18150 *src/rwat.cpp
+1412109b027a64c5b1e6134ca90f3653 *src/rwat.cpp
 a74bcbfdfd9390455bd106e315748118 *src/wat6.cpp
 22f9ce9ce6a5864dccdc6b13f7cb2804 *tests/testthat.R
 8efecb6298806bbf8ce717dbd0e84315 *tests/testthat/null.RData

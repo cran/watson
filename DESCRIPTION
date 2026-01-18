@@ -1,7 +1,7 @@
 Package: watson
 Type: Package
 Title: Fitting and Simulating Mixtures of Watson Distributions
-Version: 0.6
+Version: 1.0.0
 Authors@R: c(
     person("Lukas", "Sablica", email = "lsablica@wu.ac.at", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0001-9166-4563")), 
@@ -14,6 +14,7 @@ Authors@R: c(
   )
 Maintainer: Lukas Sablica <lsablica@wu.ac.at>
 Description: Tools for fitting and simulating mixtures of Watson distributions. 
+             The package is described in Sablica, Hornik and Leydold (2026) <doi:10.18637/jss.v115.i04>.
              The random sampling scheme of the package offers two sampling 
              algorithms that are based of the results of Sablica, Hornik and Leydold (2022)
              <doi:10.1080/10618600.2024.2416521>.
@@ -33,18 +34,19 @@ Imports: Rcpp (>= 0.12.18), Tinflex (>= 1.8)
 LinkingTo: Rcpp, RcppArmadillo, Tinflex
 URL: https://github.com/lsablica/watson
 BugReports: https://github.com/lsablica/watson/issues
-RoxygenNote: 7.3.2
+RoxygenNote: 7.3.3
 Depends: R (>= 3.5.0)
 Suggests: HSAUR3, testthat (>= 3.0.0)
 Config/testthat/edition: 3
 NeedsCompilation: yes
-Packaged: 2025-02-19 12:50:47 UTC; lukas
-Author: Lukas Sablica [aut, cre] (<https://orcid.org/0000-0001-9166-4563>),
-  Kurt Hornik [aut] (<https://orcid.org/0000-0003-4198-9911>),
-  Josef Leydold [aut] (<https://orcid.org/0000-0002-9076-4893>),
+Packaged: 2026-01-17 21:29:34 UTC; lukas
+Author: Lukas Sablica [aut, cre] (ORCID:
+    <https://orcid.org/0000-0001-9166-4563>),
+  Kurt Hornik [aut] (ORCID: <https://orcid.org/0000-0003-4198-9911>),
+  Josef Leydold [aut] (ORCID: <https://orcid.org/0000-0002-9076-4893>),
   Gerard Jungman [ctb, cph] (Author and copyright holder of included GNU
     GSL code),
   Brian Gough [ctb, cph] (Author and copyright holder of included GNU GSL
     code)
 Repository: CRAN
-Date/Publication: 2025-02-19 13:10:02 UTC
+Date/Publication: 2026-01-18 00:30:02 UTC
